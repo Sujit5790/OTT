@@ -1,0 +1,537 @@
+.mask-group-icon {
+  position: absolute;
+  top: 78px;
+  left: 48px;
+  width: 1344px;
+  height: 906px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 78px;
+}
+.sign-up {
+  position: absolute;
+  top: 0.75px;
+  left: 141.75px;
+}
+.bxbx-search-icon,
+.claritybell-outline-badged-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26.25px;
+  height: 26.25px;
+  overflow: hidden;
+}
+.claritybell-outline-badged-icon {
+  left: 64.5px;
+}
+.sign-up-parent {
+  position: absolute;
+  top: 25.5px;
+  left: 1186.5px;
+  width: 203.75px;
+  height: 26.25px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.group-item {
+  position: absolute;
+  top: 78px;
+  left: 49.5px;
+  border-radius: 15px;
+  background: linear-gradient(91.99deg, #000, transparent);
+  width: 1342.5px;
+  height: 668.25px;
+}
+.blade-runner-2049 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 96px;
+  font-family: var(--font-oswald);
+}
+.thirty-years-after {
+  position: absolute;
+  top: 154px;
+  left: 4.5px;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 567px;
+  height: 141px;
+}
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 314.78px;
+  left: 1.63px;
+  width: 141.87px;
+  height: 27.97px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: 27px;
+  background-color: var(--color-tomato);
+  width: 176.25px;
+  height: 45px;
+}
+.polygon-icon {
+  position: absolute;
+  top: 13.85px;
+  left: 20.63px;
+  border-radius: 1.5px;
+  width: 15.38px;
+  height: 17.29px;
+}
+.watch-now {
+  position: absolute;
+  top: 15px;
+  left: 51px;
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+  width: 101.25px;
+  height: 18px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 382.5px;
+  left: 3px;
+  width: 176.25px;
+  height: 45px;
+}
+.blade-runner-2049-parent {
+  position: absolute;
+  top: 120px;
+  left: 97.5px;
+  width: 761px;
+  height: 427.5px;
+  font-size: var(--font-size-lg);
+}
+.ri-add-fill-icon {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.watchlist {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.ri-add-fill-parent,
+.ri-share-fill-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 84px;
+  height: 60px;
+}
+.ri-share-fill-icon {
+  left: 10.5px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.group-parent,
+.ri-share-fill-parent {
+  position: absolute;
+  top: 0;
+  left: 120px;
+  width: 52px;
+  height: 60px;
+}
+.group-parent {
+  top: 493.5px;
+  left: 312.75px;
+  width: 172px;
+  font-size: var(--font-size-mini);
+}
+.line-div {
+  position: absolute;
+  top: 769.88px;
+  left: 47.63px;
+  border-top: 0.8px solid #343434;
+  box-sizing: border-box;
+  width: 1344.75px;
+  height: 0.75px;
+}
+.horror,
+.sci-fi,
+.trending-now {
+  position: absolute;
+  top: 800.25px;
+  left: 48px;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.horror,
+.sci-fi {
+  top: 1119.75px;
+}
+.sci-fi {
+  top: 1450.5px;
+}
+.fan-img2-icon,
+.fan-img3-icon,
+.fan-img4-icon {
+  position: absolute;
+  top: 0.26px;
+  left: 338.01px;
+  width: 153.2px;
+  height: 216.8px;
+  object-fit: cover;
+}
+.fan-img3-icon,
+.fan-img4-icon {
+  left: 168.7px;
+  width: 146.9px;
+}
+.fan-img4-icon {
+  top: 0;
+  left: 0;
+  width: 146.29px;
+}
+.fan-img5-1-icon,
+.fan-img5-2-icon,
+.fan-img6-icon,
+.fan-img7-icon,
+.fan-img8-icon {
+  position: absolute;
+  top: 0.26px;
+  left: 1026.31px;
+  width: 146.26px;
+  height: 216.8px;
+  object-fit: cover;
+}
+.fan-img5-2-icon,
+.fan-img6-icon,
+.fan-img7-icon,
+.fan-img8-icon {
+  top: 0;
+  left: 1194.98px;
+}
+.fan-img6-icon,
+.fan-img7-icon,
+.fan-img8-icon {
+  top: 0.26px;
+  left: 688.88px;
+  width: 146.34px;
+}
+.fan-img7-icon,
+.fan-img8-icon {
+  left: 857.63px;
+  width: 146.26px;
+}
+.fan-img8-icon {
+  left: 513.63px;
+  width: 152.84px;
+}
+.movie-sec-4,
+.movies {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1341.25px;
+  height: 217.06px;
+}
+.movie-sec-4 {
+  top: 848.48px;
+  left: 48.1px;
+}
+.fan-img2-icon1,
+.fan-img3-icon1,
+.fan-img4-icon1,
+.fan-img5-1-icon1 {
+  position: absolute;
+  top: 0.28px;
+  left: 336.1px;
+  width: 161.1px;
+  height: 227.98px;
+  object-fit: cover;
+}
+.fan-img3-icon1,
+.fan-img4-icon1,
+.fan-img5-1-icon1 {
+  left: 167.83px;
+  width: 154.47px;
+}
+.fan-img4-icon1,
+.fan-img5-1-icon1 {
+  top: 0;
+  left: 0;
+  width: 153.84px;
+}
+.fan-img5-1-icon1 {
+  top: 0.28px;
+  left: 1022.75px;
+  width: 153.81px;
+}
+.fan-img5-2-icon1,
+.fan-img6-icon1,
+.fan-img7-icon1,
+.fan-img8-icon1 {
+  position: absolute;
+  top: 0;
+  left: 1190.09px;
+  width: 153.81px;
+  height: 227.98px;
+  object-fit: cover;
+}
+.fan-img6-icon1,
+.fan-img7-icon1,
+.fan-img8-icon1 {
+  top: 0.28px;
+  left: 686.21px;
+  width: 153.88px;
+}
+.fan-img7-icon1,
+.fan-img8-icon1 {
+  left: 854.48px;
+  width: 153.81px;
+}
+.fan-img8-icon1 {
+  left: 511.16px;
+  width: 160.72px;
+}
+.movies1 {
+  position: absolute;
+  top: 1167.75px;
+  left: 45px;
+  width: 1343.9px;
+  height: 228.25px;
+}
+.fan-img2-icon2,
+.fan-img3-icon2,
+.fan-img4-icon2,
+.fan-img5-1-icon2 {
+  position: absolute;
+  top: 0.28px;
+  left: 336.02px;
+  width: 161.06px;
+  height: 227.92px;
+  object-fit: cover;
+}
+.fan-img3-icon2,
+.fan-img4-icon2,
+.fan-img5-1-icon2 {
+  left: 167.79px;
+  width: 154.44px;
+}
+.fan-img4-icon2,
+.fan-img5-1-icon2 {
+  top: 0;
+  left: 0;
+  width: 153.8px;
+}
+.fan-img5-1-icon2 {
+  top: 0.28px;
+  left: 1022.5px;
+  width: 153.77px;
+}
+.fan-img5-2-icon2,
+.fan-img6-icon2,
+.fan-img7-icon2,
+.fan-img8-icon2 {
+  position: absolute;
+  top: 0;
+  left: 1189.81px;
+  width: 153.77px;
+  height: 227.92px;
+  object-fit: cover;
+}
+.fan-img6-icon2,
+.fan-img7-icon2,
+.fan-img8-icon2 {
+  top: 0.28px;
+  left: 686.04px;
+  width: 153.85px;
+}
+.fan-img7-icon2,
+.fan-img8-icon2 {
+  left: 854.27px;
+  width: 153.77px;
+}
+.fan-img8-icon2 {
+  left: 511.03px;
+  width: 160.69px;
+}
+.group-child1,
+.movie-sec-3,
+.movies2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1343.58px;
+  height: 228.2px;
+}
+.group-child1,
+.movie-sec-3 {
+  top: 1498.5px;
+  left: 48px;
+}
+.group-child1 {
+  top: 1793px;
+  left: 0;
+  background-color: #111;
+  width: 1440px;
+  height: 227.25px;
+}
+.connect-us,
+.information,
+.manage {
+  position: absolute;
+  top: 1841.25px;
+  left: 324.75px;
+  color: var(--color-tomato);
+}
+.information,
+.manage {
+  left: 766.5px;
+}
+.information {
+  left: 1169.25px;
+}
+.about,
+.career,
+.contact-us,
+.help-center {
+  position: absolute;
+  top: 1881px;
+  left: 324.75px;
+  font-size: var(--font-size-xs);
+}
+.career,
+.contact-us,
+.help-center {
+  top: 1929px;
+}
+.career,
+.contact-us {
+  top: 1953px;
+}
+.contact-us {
+  top: 1905px;
+  left: 325.5px;
+}
+.account,
+.buy-gift-card {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.buy-gift-card {
+  top: 48px;
+}
+.manage-account,
+.redeem-gift-card {
+  position: absolute;
+  top: 72px;
+  left: 0;
+}
+.manage-account {
+  top: 24px;
+}
+.account-parent,
+.privacy-parent {
+  position: absolute;
+  top: 1881px;
+  left: 766.5px;
+  width: 101px;
+  height: 87px;
+  font-size: var(--font-size-xs);
+}
+.privacy-parent {
+  left: 1169.25px;
+  width: 103px;
+}
+.mask-group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 2020.25px;
+  font-family: var(--font-overpass);
+}
+.flix {
+  color: var(--color-tomato);
+}
+.watchflix {
+  position: absolute;
+  top: 21px;
+  left: 49px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.watchflix1 {
+  position: absolute;
+  top: 1883px;
+  left: 48px;
+  font-size: 32px;
+}
+.documentaries,
+.tv-series {
+  position: absolute;
+  top: 1.5px;
+  left: 116.25px;
+}
+.documentaries {
+  top: 0;
+  left: 245.25px;
+}
+.categories,
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 425.25px;
+}
+.group-child2 {
+  top: 24.75px;
+  left: 0;
+  background-color: var(--color-tomato);
+  width: 24px;
+  height: 3.75px;
+}
+.movies-parent {
+  position: absolute;
+  top: 0.75px;
+  left: 0;
+  width: 59px;
+  height: 28.5px;
+}
+.homepage-inner,
+.tv-series-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 514.25px;
+  height: 29.25px;
+}
+.homepage-inner {
+  top: 25px;
+  left: 463px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.homepage {
+  position: relative;
+  background-color: #1a1a1d;
+  width: 100%;
+  height: 2021px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}
