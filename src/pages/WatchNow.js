@@ -10,8 +10,7 @@ const WatchNowButton = () => {
         width: '160.25px',
         height: '45px',
     };
-
-
+    
     return (
         <Button {...buttonStyle} leftIcon={<FaPlay boxSize={6} />}>
             <Text className='watch-now'>Watch Now</Text>

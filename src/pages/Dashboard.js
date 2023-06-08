@@ -40,7 +40,7 @@ const Dashboard = () => {
             return;
         }
 
-        fetch(`/${movie._id}`, {
+        fetch(`https://ott-be-dev.netskill.com/home/${movie._id}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(movie),

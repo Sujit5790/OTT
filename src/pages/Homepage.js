@@ -133,7 +133,9 @@ const [sciFi, setSciFi] = useState([]);
            <div className="redeem-gift-card">-FAQ</div>
            <div className="manage-account">{`-Terms & Condition`}</div>
          </div>
-         <div className="horror">Horror</div><b className="Horror">{banner.horror}</b></div><div className="section">
+         <div className="horror">Horror</div><b className="Horror">{banner.horror}</b>
+         </div>
+         <div className="section">
            {horror.map((movie, index) => (
              <img key={index} className="movie-image" alt="" src={movie.imageUrl} />
            ))}
